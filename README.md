@@ -38,6 +38,8 @@ Using Jupyter Notebook for example, The following packages (libraries) need to b
 - [Part I - Gathering Data](#Gathering)
 - [Part II - Assessing Data](#Assessing)
 - [Part III - Cleaning Data](#Cleaning)
+- [Part IV - Analysis, and Visualization](#AV)
+
 
 
 
@@ -124,3 +126,10 @@ Using Jupyter Notebook for example, The following packages (libraries) need to b
 - Rename the dogs by using the text column in a new column which is 'dog_name'
 - Drop the 'name' column
 - Drop duplicated jpg_url
+
+<a id='AV'></a>
+#### Part IV - Analysis, and Visualization
+
+#### Analyzing, and Visualizing WeRateDog Twitter Account
+
+( Check the Wrangling report [here](https://github.com/ShimaaElabd/Analyze-Twitter-Account/blob/master/Reports/Wrangle_Report.html) and Visualization report [here](https://github.com/ShimaaElabd/Analyze-Twitter-Account/blob/master/Reports/Act_Report.pdf))
